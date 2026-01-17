@@ -1,5 +1,6 @@
-第一个脉冲命令方块，剩余的都是连锁。
+脉冲命令方块，需要红石。
 /kill @e[name=DFSPuzzle]
+连锁命令方块，无条件。
 /fill 2 5 7 102 6 107 dirt
 /fill 101 6 106 3 5 8 stone
 /fill 3 5 8 3 6 8 air
